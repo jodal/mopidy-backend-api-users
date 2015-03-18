@@ -1,0 +1,63 @@
+[submodule "mopidy"]
+	path = mopidy
+	url = https://github.com/mopidy/mopidy.git
+[submodule "mopidy-spotify"]
+	path = mopidy-spotify
+	url = https://github.com/mopidy/mopidy-spotify.git
+[submodule "mopidy-dirble"]
+	path = mopidy-dirble
+	url = https://github.com/mopidy/mopidy-dirble.git
+[submodule "mopidy-audioaddict"]
+	path = mopidy-audioaddict
+	url = https://github.com/nilicule/mopidy-audioaddict.git
+[submodule "mopidy-banshee"]
+	path = mopidy-banshee
+	url = https://github.com/tamland/mopidy-banshee.git
+[submodule "mopidy-bassdrive"]
+	path = mopidy-bassdrive
+	url = https://github.com/felixb/mopidy-bassdrive.git
+[submodule "mopidy-beets"]
+	path = mopidy-beets
+	url = https://github.com/mopidy/mopidy-beets.git
+[submodule "mopidy-gmusic"]
+	path = mopidy-gmusic
+	url = https://github.com/hechtus/mopidy-gmusic.git
+[submodule "mopidy-internetarchive"]
+	path = mopidy-internetarchive
+	url = https://github.com/tkem/mopidy-internetarchive.git
+[submodule "mopidy-leftasrain"]
+	path = mopidy-leftasrain
+	url = https://github.com/naglis/mopidy-leftasrain.git
+[submodule "mopidy-local-sqlite"]
+	path = mopidy-local-sqlite
+	url = https://github.com/tkem/mopidy-local-sqlite.git
+[submodule "mopidy-oe1"]
+	path = mopidy-oe1
+	url = https://github.com/tischlda/mopidy-oe1.git
+[submodule "mopidy-podcast"]
+	path = mopidy-podcast
+	url = https://github.com/tkem/mopidy-podcast.git
+[submodule "mopidy-radio-de"]
+	path = mopidy-radio-de
+	url = https://github.com/hechtus/mopidy-radio-de.git
+[submodule "mopidy-somafm"]
+	path = mopidy-somafm
+	url = https://github.com/AlexandrePTJ/mopidy-somafm.git
+[submodule "mopidy-soundcloud"]
+	path = mopidy-soundcloud
+	url = https://github.com/mopidy/mopidy-soundcloud.git
+[submodule "mopidy-spotify-tunigo"]
+	path = mopidy-spotify-tunigo
+	url = https://github.com/trygveaa/mopidy-spotify-tunigo.git
+[submodule "mopidy-subsonic"]
+	path = mopidy-subsonic
+	url = https://github.com/rattboi/mopidy-subsonic.git
+[submodule "mopidy-tunein"]
+	path = mopidy-tunein
+	url = https://github.com/kingosticks/mopidy-tunein.git
+[submodule "mopidy-vkontakte"]
+	path = mopidy-vkontakte
+	url = https://github.com/sibuser/mopidy-vkontakte.git
+[submodule "mopidy-youtube"]
+	path = mopidy-youtube
+	url = https://github.com/dz0ny/mopidy-youtube.git
