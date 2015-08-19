@@ -30,7 +30,7 @@
 	url = https://github.com/naglis/mopidy-leftasrain.git
 [submodule "mopidy-local-sqlite"]
 	path = mopidy-local-sqlite
-	url = https://github.com/tkem/mopidy-local-sqlite.git
+	url = https://github.com/mopidy/mopidy-local-sqlite.git
 [submodule "mopidy-oe1"]
 	path = mopidy-oe1
 	url = https://github.com/tischlda/mopidy-oe1.git
@@ -60,4 +60,4 @@
 	url = https://github.com/sibuser/mopidy-vkontakte.git
 [submodule "mopidy-youtube"]
 	path = mopidy-youtube
-	url = https://github.com/dz0ny/mopidy-youtube.git
+	url = https://github.com/mopidy/mopidy-youtube.git
